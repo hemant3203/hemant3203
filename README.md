@@ -11,6 +11,9 @@
 ###
 
 <img align="left" height="150" src="https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=ecf05e47n4057b7zdx6a0sxc3otz1mrybdcqnnm3a7gojknn&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hemant3203.hemant3203&"  />
+</div>
 
 ###
 
@@ -67,10 +70,4 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hemant3203/hemant3203/output/snake.svg" alt="Snake animation" />
-
-###
